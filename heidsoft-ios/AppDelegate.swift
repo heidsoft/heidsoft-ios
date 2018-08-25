@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  heidsoft-ios
-//
+///Users/heidsoft/heidsoft-ios/heidsoft-ios/heidsoft-ios/AppDelegate.swift
 //  Created by heidsoft on 2018/8/26.
 //  Copyright © 2018年 heidsoft. All rights reserved.
 //
